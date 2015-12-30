@@ -1,0 +1,12 @@
+# Site settings
+title: metasimple.com
+description: > # this means to ignore newlines until "baseurl:"
+  This is where I write about stuff going on with me. You'll find a range
+  of topics from technology to life.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://metasimple.com" # the base hostname & protocol for your site
+twitter_username: ashisha
+github_username:  ashisha
+
+# Build settings
+markdown: kramdown
